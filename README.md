@@ -1,4 +1,6 @@
-## Weather App
+## WX-1
+
+![Release](https://img.shields.io/github/v/release/evancogan/WX-1?include_prereleases) ![Python](https://img.shields.io/badge/Python-Flask-3776AB?logo=flask&logoColor=white)
 
 <img width="674" height="432" alt="image" src="https://github.com/user-attachments/assets/9ca4c663-679d-4ef1-834e-b0980ad72a88" />
 

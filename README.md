@@ -42,6 +42,6 @@ Screens also advance on their own, roughly every ten seconds. The horoscope hold
 
 Condition icons live in `weather_app/static/icons/` as SVGs named by weather code (`00.svg` through `47.svg`, plus `na.svg`). `weather_app/weather_theme.py` maps each wttr.in `weatherCode` to an icon filename and an accent color.
 
-### AI attribution
+### How it was built
 
-Claude (Anthropic) wrote most of the code in this project under my direction.
+I built this with Claude as a pair programmer. I came up with the retro weather-channel concept, wrote parts of the code, directed the rest, and reviewed and tested every change.

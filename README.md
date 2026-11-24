@@ -44,4 +44,4 @@ Condition icons live in `weather_app/static/icons/` as SVGs named by weather cod
 
 ### AI attribution
 
-Claude (Anthropic) helped write the code in this project, working under my direction.
+Claude (Anthropic) wrote most of the code in this project under my direction.
